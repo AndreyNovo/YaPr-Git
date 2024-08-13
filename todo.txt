@@ -1,0 +1,6 @@
+test
+string 2
+line 3
+tired
+go away
+
